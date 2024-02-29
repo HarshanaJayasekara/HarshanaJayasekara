@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/harshana_san" target="blank"><img src="https://img.shields.io/twitter/follow/harshana_san?logo=twitter&style=for-the-badge" alt="harshana_san" /></a> </p>
 
-- 📫 How to reach me **harshanassanjaya@gmail.com**
+- 📫 How to reach me **harshanassanjaya5@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
 
