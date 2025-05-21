@@ -65,9 +65,5 @@
 - 🛒 **Computer Store E-commerce App** – Flutter, Firebase, Node.js
 - 🎨 **UI/UX Case Studies** – Figma projects for real-world interfaces
 
----
 
-> *“Code is like humor. When you have to explain it, it’s bad.”* – Cory House
-
----
 
