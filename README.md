@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif" width="80%" alt="Futuristic Dev Animation" />
+  <img src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif" width="50%" alt="Futuristic Dev Animation" />
 </p>
 
 ---
