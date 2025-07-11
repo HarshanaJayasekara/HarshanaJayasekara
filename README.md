@@ -26,6 +26,7 @@
 - 🌐 **Portfolio**: [harshana.vercel.app](https://harshana.vercel.app)  
 - 🧪 **ORCID**: [0009-0003-4401-7998](https://orcid.org/0009-0003-4401-7998)  
 - 📫 Reach me at: `harshanassanjaya5@gmail.com`
+- *  stackshare Profile: [stackshare](https://stackshare.io/Harry-17)
 
 ---
 
