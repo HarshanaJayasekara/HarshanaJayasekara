@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/we_need_you.png" alt="we need you" width="10000" />
+  <img src="./we_need_you.png" alt="we need you" width="10000" />
 </p>
 
 ---
