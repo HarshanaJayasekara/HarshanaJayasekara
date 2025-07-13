@@ -1,13 +1,12 @@
 <h1 align="center">✨ Harshana Jayasekara</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HarshanaJayasekara&label=Visitors&color=0e75b6&style=flat-square" alt="Profile Views" />
-</p>
-
-<p align="center">
   <img src="./we_need_you.png" alt="we need you" width="10000" />
 </p>
 <h3 align="center">💻 Software Engineer | Frontend Dev | UX Visionary | Future Innovator</h3>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=HarshanaJayasekara&label=Visitors&color=0e75b6&style=flat-square" alt="Profile Views" />
+</p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" alt="Contribution Snake" />
 </p>
