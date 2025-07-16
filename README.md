@@ -1,6 +1,6 @@
 <h1 align="center">✨ Harshana Jayasekara</h1>
 
-![](https://github.com/HarshanaJayasekara/header_1.png)
+![](https://github.com/HarshanaJayasekara/HarshanaJayasekara/blob/main/header_1.png)
 <h3 align="center">💻 Software Engineer | Frontend Dev | UX Visionary | Future Innovator</h3>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=HarshanaJayasekara&label=Visitors&color=0e75b6&style=flat-square" alt="Profile Views" />
